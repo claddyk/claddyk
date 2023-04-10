@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">I'm a full stack developer with a passion for exploring blockchain technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/6e1237502fb7ad6d51acee3df9ce2546.gif">

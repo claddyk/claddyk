@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">I'm a full stack developer with a passion for exploring blockchain technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/be/04/0f/be040f35f073adc3a48c1fba489d2bc4.gif">
 
 <p align="left"> <a href="https://twitter.com/claddy_k" target="blank"><img src="https://img.shields.io/twitter/follow/claddy_k?logo=twitter&style=for-the-badge" alt="claddy_k" /></a> </p>
 

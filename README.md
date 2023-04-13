@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">I'm a full stack developer with a passion for exploring blockchain technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://openseauserdata.com/files/6e1237502fb7ad6d51acee3df9ce2546.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fce94b0b8345cd969d3cf997578487cdd&psig=AOvVaw3Iq0-3lVuJZp6NdoshIAzT&ust=1681459572985000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDOu5azpv4CFQAAAAAdAAAAABAE">
 
 <p align="left"> <a href="https://twitter.com/claddy_k" target="blank"><img src="https://img.shields.io/twitter/follow/claddy_k?logo=twitter&style=for-the-badge" alt="claddy_k" /></a> </p>
 

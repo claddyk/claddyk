@@ -4,10 +4,11 @@
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFjNTc3M2U3MGMzMDBhOGU0OGRkZWY1OWIyMjBmMDVjOWJiMThmZSZjdD1n/E3y79zUo2V4v8AFG2V/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/claddy_k" target="blank"><img src="https://img.shields.io/twitter/follow/claddy_k?logo=twitter&style=for-the-badge" alt="claddy_k" /></a> </p>
+Greetings, fellow coders! I'm a student of IIIT Nagpur, where I'm currently diving into the fascinating world of full-stack development and blockchain technology. I believe that programming is not just a skill, but a creative outlet that allows us to bring our ideas to life.
 
-- 🔭 I’m currently working on **eclair-cli tool**
+As a budding full-stack developer, I enjoy experimenting with different tools and frameworks to build intuitive and engaging web applications. I'm also exploring the potential of blockchain technology to revolutionize various industries and disrupt traditional systems.
 
-- 🌱 I’m currently learning **Scala**
+Join me on this exciting journey as I continue to learn, experiment, and grow as a programmer. Let's collaborate, share our knowledge, and build innovative solutions together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

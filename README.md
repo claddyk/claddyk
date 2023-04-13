@@ -1,7 +1,7 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">I'm a full stack developer with a passion for exploring blockchain technology.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFjNTc3M2U3MGMzMDBhOGU0OGRkZWY1OWIyMjBmMDVjOWJiMThmZSZjdD1n/E3y79zUo2V4v8AFG2V/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFjNTc3M2U3MGMzMDBhOGU0OGRkZWY1OWIyMjBmMDVjOWJiMThmZSZjdD1n/E3y79zUo2V4v8AFG2V/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/claddy_k" target="blank"><img src="https://img.shields.io/twitter/follow/claddy_k?logo=twitter&style=for-the-badge" alt="claddy_k" /></a> </p>
 

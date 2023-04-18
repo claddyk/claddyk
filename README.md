@@ -6,7 +6,7 @@
 
 Greetings, fellow coders! I'm a student of IIIT Nagpur, where I'm currently diving into the fascinating world of full-stack development and blockchain technology. I believe that programming is not just a skill, but a creative outlet that allows us to bring our ideas to life.
 
-As a budding full-stack developer, I enjoy experimenting with different tools and frameworks to build intuitive and engaging web applications. I'm also exploring the potential of blockchain technology to revolutionize various industries and disrupt traditional systems.
+As a budding full-stack developer, I enjoy experimenting with different tools & frameworks to build intuitive and engaging web applications. I'm also exploring the potential of blockchain technology to revolutionize various industries and disrupt traditional systems.
 
 Join me on this exciting journey as I continue to learn, experiment, and grow as a programmer. Let's collaborate, share our knowledge, and build innovative solutions together!
 

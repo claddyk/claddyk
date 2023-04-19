@@ -1,6 +1,6 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Mohit Kumar!</h1>
-<h3 align="center">I'm a full stack developer with a passion for exploring blockchain technology.</h3>
+<h3 align="center">I'm a budding full stack developer with a passion for exploring blockchain technology.</h3>
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFjNTc3M2U3MGMzMDBhOGU0OGRkZWY1OWIyMjBmMDVjOWJiMThmZSZjdD1n/E3y79zUo2V4v8AFG2V/giphy.gif">
 
 

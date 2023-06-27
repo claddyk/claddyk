@@ -1,18 +1,14 @@
-![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Mohit Kumar!</h1>
-<h3 align="center">I'm a budding full stack developer with a passion for exploring blockchain technology.</h3>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFjNTc3M2U3MGMzMDBhOGU0OGRkZWY1OWIyMjBmMDVjOWJiMThmZSZjdD1n/E3y79zUo2V4v8AFG2V/giphy.gif">
 
 
-Greetings, fellow coders! I'm a student of IIIT Nagpur, where I'm currently diving into the fascinating world of full-stack development and blockchain technology. I believe that programming is not just a skill, but a creative outlet that allows us to bring our ideas to life.
-
-As a budding full-stack developer, I enjoy experimenting with different tools and frameworks to build intuitive and engaging web applications. I'm also exploring the potential of blockchain technology to revolutionize various industries and disrupt traditional systems of things.
-
-Join me on this exciting journey as I continue to learn, experiment, and grow as a programmer. Let's collaborate, share our knowledge, and build innovative solutions together!
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claddyk&show_icons=true&locale=en&layout=compact" alt="claddyk" /></p>
-
+<div align="center">
+	<h1>Hi I'm <a href="https://hiro.codes">Mohit</a> </h1>
+	<div>I write bugs</div>  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="100" />
+	<br />
+	<br />
+	<a href="https://discord.gg/NRVfsgnrjW"><img src="https://img.shields.io/badge/Discord-Server-blue?style=flat&logo=discord" /></a>
+	<a href="https://claddy.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-hiro.codes-important?style=flat" /></a>
+	<a href="https://sponsor"><img src="https://img.shields.io/badge/SPONSOR-ME-important?style=flat" /></a>
+	<br />
+	<br />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=claddyk&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
+</div>

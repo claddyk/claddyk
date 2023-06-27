@@ -6,7 +6,7 @@
 	<br />
 	<br />
 	<a href="https://discord.gg/NRVfsgnrjW"><img src="https://img.shields.io/badge/Discord-Server-blue?style=flat&logo=discord" /></a>
-	<a href="https://claddy.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-hiro.codes-important?style=flat" /></a>
+	<a href="https://claddy.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-claddy.vercel-important?style=flat" /></a>
 	<a href="https://sponsor"><img src="https://img.shields.io/badge/SPONSOR-ME-important?style=flat" /></a>
 	<br />
 	<br />
